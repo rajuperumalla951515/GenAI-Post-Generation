@@ -20,6 +20,3 @@ Use the selected topic, language, and length to generate a new post. Past posts 
    ```commandline
    streamlit run main.py
    ```
-## Author
-
-This project was made by **Raju Perumalla**.
