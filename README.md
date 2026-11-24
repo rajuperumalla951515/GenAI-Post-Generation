@@ -20,8 +20,6 @@ Use the selected topic, language, and length to generate a new post. Past posts 
    ```commandline
    streamlit run main.py
    ```
-Copyright (C) Codebasics Inc. All rights reserved.
+## Author
 
-
-**Additional Terms:**
-This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
+This project was made by **Raju Perumalla**.
